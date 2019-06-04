@@ -2,7 +2,7 @@
 
 # Data science fellowship 06/03/19 
 
-Hi Ngoc!
+Hi this is Ngoc!
 
 ### Data science calendar
 
